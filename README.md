@@ -29,8 +29,6 @@ Every choice in the Spokena stack favors reliability, predictable outputs, and l
 
 ### Backend Logic
 
-_(Place the attached architecture diagram in `assets/architecture.png` and it will render here.)_
-
 ![Architecture Diagram](assets/architecture.png)
 
 - **FastAPI**: Asynchronous, high-performance API orchestration.
