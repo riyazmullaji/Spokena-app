@@ -156,8 +156,6 @@ Please add the provided architecture diagram to `assets/architecture.png` at the
 For questions about architecture or design rationale, open an issue or contact the repository owner.
 
 ---
+## Live link
 
-This README is intended as the canonical project overview for contributors and stakeholders. If you want, I can also open a small PR that:
-
-- Adds `assets/architecture.png` if you provide the image file here.
-- Adds a short `CONTRIBUTING.md` with branch and commit conventions.
+https://spokena.vercel.app/
