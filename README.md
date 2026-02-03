@@ -29,7 +29,7 @@ Every choice in the Spokena stack favors reliability, predictable outputs, and l
 
 ### Backend Logic
 
-![Architecture Diagram](assets/architecture.png)
+![Architecture Diagram](assets/architecture.jpg)
 
 - **FastAPI**: Asynchronous, high-performance API orchestration.
 - **Resilient Transcription Router**:
